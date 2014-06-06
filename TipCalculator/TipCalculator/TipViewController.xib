@@ -69,6 +69,9 @@
                         <segment title="15%"/>
                         <segment title="20%"/>
                     </segments>
+                    <connections>
+                        <action selector="onTap:" destination="-1" eventType="valueChanged" id="R5t-Ie-fPb"/>
+                    </connections>
                 </segmentedControl>
             </subviews>
             <color key="backgroundColor" red="0.97139247213144886" green="0.9747877202756422" blue="1" alpha="1" colorSpace="calibratedRGB"/>
